@@ -1,11 +1,5 @@
-Sphinx Search for Laravel 5 - Custom build with snippets support 
-=======================
-Simple Laravel 5 package for make queries to Sphinx Search.
-Inspired by scalia/sphinxsearch package for Laravel 4.
-
-This package was created to import to the site packagist.org and allow installation through Composer (https://getcomposer.org/).
-
-Installation
+Sphinx Search for Laravel 9 - Custom build with snippets support
+Ported to Laravel 9 by [DEV]Inside
 =======================
 
 Require this package in your composer.json:
