@@ -18,7 +18,7 @@
   "require": {
     "php": "8.1.4",
     "illuminate/support": "*",
-    "devinsider/sphinxphp": "dev-main"
+    "devinsideer/sphinxphp": "dev-main"
   },
   "autoload": {
     "psr-0": {
