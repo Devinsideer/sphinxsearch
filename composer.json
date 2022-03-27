@@ -1,0 +1,28 @@
+{
+  "name": "devinsideer/sphinxsearch",
+  "description": "Laravel package to query Sphinxsearch in Laravel 9",
+  "keywords": [
+    "sphinx",
+    "sphinxsearch",
+    "laravel",
+    "laravel 9"
+  ],
+  "homepage": "http://github.com/devinsideer/sphinxsearch",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "superdsa",
+      "email": "manager@devinside.ru"
+    }
+  ],
+  "require": {
+    "php": "^8.1",
+    "illuminate/support": "*",
+    "devinsider/sphinxphp": "*"
+  },
+  "autoload": {
+    "psr-0": {
+      "sngrl\\SphinxSearch": "src/"
+    }
+  }
+}
